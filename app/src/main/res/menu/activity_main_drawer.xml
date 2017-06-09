@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bbc_news"
+            android:icon="@drawable/newspaper"
+            android:title="@string/title_bbc_news" />
+        <item
+            android:id="@+id/bbc_sport"
+            android:icon="@drawable/football"
+            android:title="@string/title_bbc_sport" />
+        <item
+            android:id="@+id/mtv_news"
+            android:icon="@drawable/music_note"
+            android:title="@string/title_mtv_news" />
+    </group>
+
+    <item android:title="@string/title_profile">
+        <menu>
+            <item
+                android:id="@+id/favorite_news"
+                android:icon="@drawable/star"
+                android:title="@string/title_favorite_news" />
+        </menu>
+    </item>
+
+</menu>

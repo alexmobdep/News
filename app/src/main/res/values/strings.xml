@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_bbc_news">BBC News</string>
+    <string name="title_bbc_sport">BBC Sport</string>
+    <string name="title_mtv_news">MTV News</string>
+    <string name="title_favorite_news">Favorite News</string>
+    <string name="title_profile">Profile</string>
+</resources>
